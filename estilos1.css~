@@ -1,0 +1,77 @@
+		  h1 {
+        padding-left:55px;
+		  font-size:50px;
+		  margin-left:40%;
+		  margin-right:38%;
+		  background-color:red; 
+		  color:white;
+        }
+        
+        h2{
+        background-color:red;
+		  color:white;
+		  }
+        
+		  #season-5{
+		  margin-top:80px; 
+		  }
+        
+        #personajes{
+        margin-top:100px; 
+        }
+        
+        #veronica-lj{
+        margin-top:100px; 
+        }
+        
+        #FJ{
+        margin-top:110px; 	
+        }
+        
+        
+        h3 {
+        font-size: 20px ;
+		  font-style:italic;
+		  color:orange;
+        }
+        
+        p {
+        font-family: sans-serif;
+		  color: black;
+        }
+              
+        #casting {
+        border: 8px ridge red;
+         }
+        #temporada-2 {
+        border: 8px ridge yellowgreen;
+        }
+        #temporada-3 {
+        border: 8px ridge blue;
+        }
+        #temporada-4 {
+        border: 8px ridge green;
+        }
+        #temporada-5 {
+        border: 8px ridge orange;
+        }
+        #michael {
+        border: 8px ridge beige;
+        margin-right:5px;
+        }
+        #lj {
+        border: 8px ridge indigo;
+        }
+        #veronica {
+        border: 8px ridge coral;
+        }
+        #sucre {
+        border: 8px ridge olive;
+        }
+        #abruzzi {
+        border: 8px ridge bisque;
+        }
+        #portada {
+        margin-right:620px;
+        }
+        
